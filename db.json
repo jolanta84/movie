@@ -1,0 +1,30 @@
+{
+  "movies": [
+    {
+
+        "id": 1,
+        "title": "abc",
+        "year": 2010,
+        "category": "thriller",
+        "director": "C",
+       "plot": "a",
+        "poster": "c",
+        "country": "poland",
+        "imdbRating": "d"
+      },
+      {
+
+        "id": 2,
+        "title": "cda",
+        "year": 1999,
+        "category": "sfx",
+        "director": "DC",
+       "plot": "a",
+        "poster": "d",
+        "country": "germany",
+        "imdbRating": "d"
+      }
+
+
+      ]
+}
